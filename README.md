@@ -15,7 +15,7 @@
 ### About me
 
 - I enjoy creating practical, polished applications for the web.
-- I work with React, TypeScript, Next.js, and modern frontend tools.
+- I work with React, TypeScript, Next.js, Express.js, and modern web technologies.
 - I like exploring ideas across music, personal finance, and gaming.
 
 ### Featured projects
