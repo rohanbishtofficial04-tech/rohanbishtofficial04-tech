@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=180&section=header&text=Rohan%20Bisht&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Rohan Bisht" />
 </p>
 
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 <p align="center">
   Building useful web experiences with thoughtful design and technology.
